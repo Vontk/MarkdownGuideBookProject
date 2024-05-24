@@ -7,10 +7,10 @@
 - Transmisión automatica (de doble embrague)
 ### Componentes principales de la transmisión
 - Caja de Cambios
-![img.png](img.png)
+![trasmision (1).png](trasmision (1).png)
 - Embrague
-![img_1.png](img_1.png)
+![trasmision (2).png](trasmision (2).png)
 - Diferencial
-![img_2.png](img_2.png)
+![trasmision (3).png](trasmision (3).png)
 - Eje de trasmision
-![img_3.png](img_3.png)
+![trasmision (4).png](trasmision (4).png)
