@@ -4,11 +4,11 @@
 ![motorfachero.png](motorfachero.png)
 ## Tipos de motores
 - Motores de combustion interna
-![img_1.png](img_1.png)
+![Motor1.png](Motor1.png)
 - Motores electricos
-![img_2.png](img_2.png)
+![motor2.png](motor2.png)
 - Motores hibridos
-![img_3.png](img_3.png)
+![motor3.png](motor3.png)
 ## Elementos del motor
 - Cilindros
 https://es.wikipedia.org/wiki/Cilindro_(motor)
