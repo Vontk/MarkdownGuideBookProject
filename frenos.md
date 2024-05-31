@@ -6,15 +6,15 @@ frenan el auto
 ## ¿para que se usan?
 para no chocar
 
-![img_1.png](img_1.png)
+![imagenes/img_1.png](imagenes/img_1.png)
 ## ¿todos los autos lo tienen?
 si
 
-![img_2.png](img_2.png)
+![imagenes/img_2.png](imagenes/img_2.png)
 ## ¿de que color son las pastillas de freno?
 casi siempre son de color plata pero pueden ser de otros colores
 
-![img_3.png](img_3.png)
+![imagenes/img_3.png](imagenes/img_3.png)
 
 ### colores de pastilla de freno
 
