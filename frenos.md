@@ -2,7 +2,7 @@
 ## ¿que hacen?
 frenan el auto
 
-![img.png](img.png)
+![imagenes/img.png](imagenes/img.png)
 ## ¿para que se usan?
 para no chocar
 
